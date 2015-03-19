@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+
+	<endereco COD_ENDERECO ='15001' bairro='TESTE 001' rua='inventar rua' cep='00000000' complemento='srdyg' numero='2356'/>
+	<endereco COD_ENDERECO ='15002' bairro='TESTE 001' rua='inventar rua' cep='00000000' complemento='srdyg' numero='2356' />
+
+</dataset>

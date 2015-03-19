@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<tipo_rede_escola COD_REDE='456' DESCRICAO='Privada' DEPENDENCIA_ADM='Privada' CATEGORIA_ESCOLA_PRIVADA='Particular'/>
+	<tipo_rede_escola COD_REDE='457' DESCRICAO='Pública' DEPENDENCIA_ADM='Estadual' CATEGORIA_ESCOLA_PRIVADA=''/>
+	<tipo_rede_escola COD_REDE='458' DESCRICAO='Privada' DEPENDENCIA_ADM='Privada' CATEGORIA_ESCOLA_PRIVADA=''/>
+</dataset>

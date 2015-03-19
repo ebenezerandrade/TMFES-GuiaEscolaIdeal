@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<regiao COD_REGIAO='456' DESCRICAO='Centro-Oeste' />
+	<regiao COD_REGIAO='457' DESCRICAO='Norte' />
+	<regiao COD_REGIAO='458' DESCRICAO='Sul' />
+</dataset>

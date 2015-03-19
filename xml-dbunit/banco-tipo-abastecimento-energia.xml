@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<tipo_abastecimento_energia_eletrica COD_TIPO_ABAST_ENERGIA='2002'  DESCRICAO='GERADOR'/>
+	<tipo_abastecimento_energia_eletrica COD_TIPO_ABAST_ENERGIA='2003' DESCRICAO='GERADOR 2'/>
+	<tipo_abastecimento_energia_eletrica COD_TIPO_ABAST_ENERGIA='2004' DESCRICAO='GERADOR 3'/>
+</dataset>

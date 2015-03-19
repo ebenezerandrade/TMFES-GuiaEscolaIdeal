@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<tipo_esgoto_sanitario COD_TIPO_ESGOTO='1000' DESCRICAO='esgoto'/>
+
+</dataset>

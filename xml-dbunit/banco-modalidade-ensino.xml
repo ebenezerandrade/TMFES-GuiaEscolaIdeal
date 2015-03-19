@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<modalidade_ensino COD_MODALIDADE_ENSINO='7700' DESCRICAO='MODALIDADE'/>
+	<modalidade_ensino COD_MODALIDADE_ENSINO='7701' DESCRICAO='MODALIDADE 1'/>
+	<modalidade_ensino COD_MODALIDADE_ENSINO='7702' DESCRICAO='MODALIDADE 2'/>
+</dataset>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<tipo_destinacao_lixo COD_TIPO_DESTINACAO_LIXO='4400' DESCRICAO='LIXAO'/>
+	<tipo_destinacao_lixo COD_TIPO_DESTINACAO_LIXO='4401' DESCRICAO='LIXAO 1'/>
+	<tipo_destinacao_lixo COD_TIPO_DESTINACAO_LIXO='4402' DESCRICAO='LIXAO 2'/>
+</dataset>

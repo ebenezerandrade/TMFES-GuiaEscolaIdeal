@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<tipo_abastecimento_agua  COD_TIPO_ABASTECIMENTO_AGUA='456' DESCRICAO='Fonte' />
+	<tipo_abastecimento_agua  COD_TIPO_ABASTECIMENTO_AGUA='171' DESCRICAO='Fonte' />
+</dataset>
